@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "D:\\C Programming"
+		},
+		{
+			"path": "..\\..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Rishav",
+		"code-runner.saveFileBeforeRun": true,
+		"files.autoSave": "onWindowChange",
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
